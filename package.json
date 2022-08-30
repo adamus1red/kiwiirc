@@ -29,12 +29,12 @@
     "intersection-observer": "^0.12.0",
     "ip-regex": "^4.3.0",
     "irc-framework": "^4.12.1",
-    "json5": "^2.2.0",
+    "json5": "^2.2.1",
     "murmurhash3js": "^3.0.1",
     "sockjs-client": "^1.5.2",
     "strftime": "^0.10.0",
     "tinycon": "^0.6.8",
-    "vue": "^2.6.14",
+    "vue": "^2.7.10",
     "vue-virtual-scroller": "^1.0.10",
     "whatwg-fetch": "^3.6.2",
     "xhr": "^2.6.0"
@@ -66,7 +66,7 @@
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0",
     "stylelint-webpack-plugin": "2.3.1",
-    "vue-template-compiler": "^2.6.14",
+    "vue-template-compiler": "^2.7.10",
     "webpack": "^4.46.0"
   }
 }
